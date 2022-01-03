@@ -1,0 +1,7 @@
+Vorname: DerDieter
+Nachname: Ruediger
+Adresse: Zuericher, 55, Stuttgart, 012345
+Versicherung: VW
+Alter: 23
+private: 23
+maennlich: true

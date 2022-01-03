@@ -1,0 +1,7 @@
+Vorname: Friedrich
+Nachname: Fuchs
+Adresse: DStrasse, 5, CStuttgart, 701335
+Versicherung: BTK
+Alter: 10
+IBAN: 12936891253
+BIC: uasdfggope23

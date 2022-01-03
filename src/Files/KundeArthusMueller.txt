@@ -1,0 +1,6 @@
+Vorname: Arthus
+Nachname: Mueller
+Adresse: AStrasse, 3, AStuttgart, 70376
+Versicherung: CTK
+Alter: 5
+maennlich: ja

@@ -1,0 +1,6 @@
+Vorname: Crodo
+Nachname: Mueller
+Adresse: CStrasse, 3, DStuttgart, 70335
+Versicherung: ATK
+Alter: 10
+maennlich: nein

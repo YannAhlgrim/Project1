@@ -1,0 +1,6 @@
+Vorname: Brobo
+Nachname: Mueller
+Adresse: BStrasse, 5554, BStuttgart, 70335
+Versicherung: DTK
+Alter: 10
+maennlich: ja
