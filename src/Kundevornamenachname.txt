@@ -1,0 +1,7 @@
+Vorname: vorname
+Nachname: nachname
+Adresse: strasse, 55, stuggi, 0124
+Versicherung: ves
+Alter: 12
+private: 12
+maennlich: true

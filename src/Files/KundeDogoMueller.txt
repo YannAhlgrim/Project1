@@ -1,0 +1,6 @@
+Vorname: Dogo
+Nachname: Mueller
+Adresse: DStrasse, 5, CStuttgart, 701335
+Versicherung: BTK
+Alter: 10
+maennlich: nein
